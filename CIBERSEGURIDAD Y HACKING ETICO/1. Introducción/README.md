@@ -12,3 +12,5 @@
 
 # IDENTIFICAR CON LAS HERAMIENTAS CORRECTAS PARA SABER QUE TIPO DE ATAQUE ESTAMOS RECIBIENDO
 ### Nosotros debemos de plantear las barreras fisicas para prevenir casos irremediables.
+
+# Un contrato delimita las formas que un HACKER ETICO puede encontrar las vulnerabilidades y dar un scan de informacion para poner a pie las herramientas necesarias.
