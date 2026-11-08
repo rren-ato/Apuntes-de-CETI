@@ -21,3 +21,9 @@
 ### Una NUBE PRIVADA no es 100% segura, pero tiene muchos parámetros de seguridad delimitados.
 
 # INTERNET LENTO ----> Mala configuracion de la RED FISICA - determinar el estado adecuado de las conexiones
+
+### EX CASO REAL
+#### Se tiene todo un cableado de "CATEGORIA 6" pero hay una conexión de tipo "CONEXION 5e".
+#### Eso no se puede hacer pues si solo hay un cableado distinto o una infraestructura moderna, pues al ser un tipo inferior de conexión la RED se ADAPTA para poder actuar en todos los cableados ( OSEA SE REBAJA AL NIVEL 5) lo que quiere decir que esa es la razón del estado de la RED que esta mas lenta a lo que se esperaba.
+
+
