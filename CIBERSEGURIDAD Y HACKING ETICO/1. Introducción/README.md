@@ -1,7 +1,7 @@
 # INSTRUIR (prevenir ataques) a los USUARIOS 
-### Reglas o pautas que los usuarios deben manejar 
-## PHYSING
-## TROJAN
+#### Reglas o pautas que los usuarios deben manejar 
+###  * PHYSING
+###  * TROJAN
 
 ## EXISTEN NORMAL DE SEGURIDAD FISICAS
 #### Formas mas seguras (frente a las logicas)
@@ -20,4 +20,4 @@
 ### El problema es el TIPO de NUBE a la que yo accedo, pues depende mucho de la proteccion (IP publica) y el espacio de almacenamiento.
 ### Una NUBE PRIVADA no es 100% segura, pero tiene muchos parámetros de seguridad delimitados.
 
-# INTERNET LENTO ----> SATURACION posible vulnerabilidad o DDOS
+# INTERNET LENTO ----> Mala configuracion de la RED FISICA - determinar el estado adecuado de las conexiones
