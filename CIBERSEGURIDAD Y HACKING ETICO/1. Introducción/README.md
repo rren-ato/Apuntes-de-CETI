@@ -32,3 +32,9 @@
 ### TELNET: transferencia de datos limpios (sin cifrado ni encriptado) MUY VULNERABLES.
 ### SSH:    transferencia de datos encriptados.
 
+# Puertos de conexiones
+### Entradas y salidas de comunicacion
+### SSH (puerto 80) si tengo acceso al htpp de 22
+### Para impedir el acceso a webs riesgosas se tiene que bloquear las conexiones del puerto.
+
+
